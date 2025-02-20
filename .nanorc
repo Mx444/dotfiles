@@ -1,0 +1,25 @@
+# Abilita i numeri di riga
+set linenumbers
+
+# Mostra sempre la posizione del cursore
+set constantshow
+
+# Attiva il supporto per il mouse
+set mouse
+
+# Abilita la sintassi per tutti i linguaggi disponibili
+include /usr/share/nano/*.nanorc
+
+# Mantieni l'indentazione quando vai a capo
+set autoindent
+
+# Usa spazi invece di tab
+set tabsize 4
+set tabstospaces
+
+# Mostra il margine giustificato (utile per leggere testi)
+set softwrap
+
+# Attiva la modalità visibile per i tasti Ctrl
+set showcursor
+
